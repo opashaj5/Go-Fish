@@ -2,7 +2,7 @@
 ---
 ## Concept:
 
-Go Fish is a fun and simple card game. It's you vs. the computer. The objective is to get the most 4-of-a-kind matches so you can be the first one to lay down all of your cards. Each player is dealt 7 cards from a deck of 52 cards. The remaining cards are placed face down as a draw pile. The players take turns asking one another if they have a specific card - no lying or cheating! If your opponent does not have the card number you asked for, they will say “Go Fish” and vice versa. At this point, you draw a card from the draw pile. If the card you draw matches the card number you asked your opponent for, put it in your hand, and continue playing your turn. If the card does not match the card number you asked for, the card becomes part of your hand, and it is your opponent’s turn. The game ends when the draw pile is empty. The person with the most sets of four wins the game.
+Go Fish is a fun and simple card game. It's player vs. the computer. The objective is to get the most 4-of-a-kind matches resulting in the highest score. Each player is dealt 7 cards from a deck of 52 cards. The remaining cards are placed face down as a draw pile in the center. The player has the upper hand and gets to go first. The player and opponent take turns asking one another if they have a specific card. If the opponent does not have the card number the player asked for, the opponent will say “Go Fish”. At this point, the player draws a card from the draw pile. If the card drawn matches the card number that was asked for, it becomes part of the players hand, and they continue with their turn. If the card does not match the card number that was asked for, the card becomes part of the players hand, and it is the opponent’s turn. The game ends when there are no cards left. The person with the most sets of four wins the game.
 
 ## Technologies Used:
 
@@ -14,3 +14,5 @@ Go Fish is a fun and simple card game. It's you vs. the computer. The objective 
 
 <img src="https://i.imgur.com/aS7ao9j.jpg">
 <img src="https://i.imgur.com/Ov6eC2N.jpg">
+<img src="https://i.imgur.com/mVuujE6.jpg">
+<img src="https://i.imgur.com/cCNRnL2.jpg">
